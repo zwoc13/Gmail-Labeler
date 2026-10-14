@@ -1,0 +1,14 @@
+[
+  {
+    "sender_contains": "workgrades.com",
+    "label": "AI/WorkGrades"
+  },
+  {
+    "sender_contains": "glovo",
+    "label": "AI/Marketing"
+  },
+  {
+    "sender_contains": "vidaplayer",
+    "label": "AI/VidaPlayer"
+  }
+]

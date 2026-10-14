@@ -1,0 +1,6 @@
+# Google OAuth secrets
+credentials.json
+token.json
+
+# Runtime state
+processed_ids.json

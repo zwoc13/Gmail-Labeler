@@ -1,0 +1,42 @@
+[
+  {
+    "description": "Emails related to job alerts, professional newsletters, and workplace communication.",
+    "key": "AI_WORK_CAREER",
+    "name": "Work & Career"
+  },
+  {
+    "description": "Notifications and updates regarding cryptocurrency exchanges and finance.",
+    "key": "AI_FINANCE_CRYPTO",
+    "name": "Finance & Crypto"
+  },
+  {
+    "description": "E-commerce promotions, sales, and shopping center notices.",
+    "key": "AI_SHOPPING_DEALS",
+    "name": "Shopping & Deals"
+  },
+  {
+    "description": "Bills, invoices, or promotions for local utilities and services like food delivery.",
+    "key": "AI_LOCAL_SERVICES",
+    "name": "Local Services"
+  },
+  {
+    "description": "Direct communications from the WorkGrades system or department.",
+    "key": "AI_WORKGRADES",
+    "name": "WorkGrades"
+  },
+  {
+    "description": "A catch-all category for general technology news, generic marketing, and miscellaneous alerts.",
+    "key": "AI_MISC",
+    "name": "General Updates"
+  },
+  {
+    "description": "Marketing garbage coming from different companies",
+    "key": "AI_MARKETING",
+    "name": "Marketing"
+  },
+  {
+    "description": "Direct Vidaplayer company communication",
+    "key": "AI_VIDAPLAYER",
+    "name": "VidaPlayer"
+  }
+]
